@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newsletter-sign-up-form-with-success-message/static/css/main.619c7d6d.css",
-    "main.js": "/newsletter-sign-up-form-with-success-message/static/js/main.66af87c1.js",
+    "main.js": "/newsletter-sign-up-form-with-success-message/static/js/main.aa481487.js",
     "static/js/453.c1758981.chunk.js": "/newsletter-sign-up-form-with-success-message/static/js/453.c1758981.chunk.js",
     "static/media/Roboto-Regular.ttf": "/newsletter-sign-up-form-with-success-message/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
     "static/media/Roboto-Bold.ttf": "/newsletter-sign-up-form-with-success-message/static/media/Roboto-Bold.35eab922fdbe4b5324d4.ttf",
@@ -10,11 +10,11 @@
     "index.html": "/newsletter-sign-up-form-with-success-message/index.html",
     "static/media/icon-success.svg": "/newsletter-sign-up-form-with-success-message/static/media/icon-success.1ad016255f85fa877dc6bee8c9621535.svg",
     "main.619c7d6d.css.map": "/newsletter-sign-up-form-with-success-message/static/css/main.619c7d6d.css.map",
-    "main.66af87c1.js.map": "/newsletter-sign-up-form-with-success-message/static/js/main.66af87c1.js.map",
+    "main.aa481487.js.map": "/newsletter-sign-up-form-with-success-message/static/js/main.aa481487.js.map",
     "453.c1758981.chunk.js.map": "/newsletter-sign-up-form-with-success-message/static/js/453.c1758981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.619c7d6d.css",
-    "static/js/main.66af87c1.js"
+    "static/js/main.aa481487.js"
   ]
 }
