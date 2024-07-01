@@ -5,11 +5,11 @@ import {BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/newsletter-sign-up-form-with-success-message/">
     <div className="App">
       <Routes>
-        <Route path="/signup" element={<SignUp />} />
-        <Route path="/success" element={<SuccessReact />} />
+        <Route path="/" element={<SignUp />} />
+        <Route path="success" element={<SuccessReact />} />
       </Routes>
     </div>
   </Router>

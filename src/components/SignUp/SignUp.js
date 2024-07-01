@@ -53,7 +53,7 @@ function SignUp() {
               <p className="message-error">{emailError}</p>
             </div>
             <input
-              className={emailError == "" ? "" : "error"}
+              className={emailError === "" ? "" : "error"}
               type="email"
               name="email"
               placeholder="email@company.com"
