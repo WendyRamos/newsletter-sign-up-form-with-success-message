@@ -9,7 +9,7 @@ function SuccessReact() {
   const email = location.state?.email || "Correo no proporcionado";
   
   const handleClick = () => {
-    navigate("/signup");
+    navigate("/");
   };
 
   return (
