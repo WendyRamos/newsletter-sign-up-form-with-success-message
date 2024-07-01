@@ -1,0 +1,37 @@
+.container-success {
+    width: 350px;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.container-success img {
+    margin-bottom: 10px;
+}
+.container-success h2 {
+    font-size: 40px;
+    font-weight: 950;
+}
+.container-success p {
+    font-size: 12px;
+    font-weight: normal;
+    margin: 15px 0;
+}
+.container-success span {
+    font-size: 12px;
+    font-weight: bold;
+}
+.container-success button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 15px;
+    background-color: #242741;
+    border-radius: 6px;
+    border-style: none;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+.container-success button:hover{
+    background: linear-gradient(90deg, #FF5478 5%, #FF6156 57%);
+    box-shadow: 0 15px 15px rgba(255, 97, 86, 0.4);
+}
